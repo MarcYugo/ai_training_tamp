@@ -3,7 +3,7 @@ This repository is used to store personal study notes during the AI training cam
 
 ### AI Mid-range Weather Forecast
 
-Link to dataset for [weather data](https://tianchi.aliyun.com/competition/entrance/532111/information).
+Link to [weather data](https://tianchi.aliyun.com/competition/entrance/532111/information).
 
 |method baseline| note name|
 |-|-|
@@ -11,7 +11,7 @@ Link to dataset for [weather data](https://tianchi.aliyun.com/competition/entran
 
 ### Brain PET Image Analysis and Disease Prediction
 
-Link to dataset for PET Image [data](https://challenge.xfyun.cn/topic/info?type=pet-2023).
+Link to PET Image dataset [data](https://challenge.xfyun.cn/topic/info?type=pet-2023).
 
 |method| note name|
 |-|-|
