@@ -14,6 +14,7 @@ Link to dataset for [weather data](https://tianchi.aliyun.com/competition/entran
 Link to dataset for PET Image [data](https://challenge.xfyun.cn/topic/info?type=pet-2023).
 
 |method| note name|
+|-|-|
 |Deep learning model| pet_brain.ipynb|
 
 ### Acknowledgment
