@@ -19,4 +19,4 @@ Link to PET Image dataset [data](https://challenge.xfyun.cn/topic/info?type=pet-
 
 ### Acknowledgment
 
-All notes are based on [ai training camp study manual](https://datawhaler.feishu.cn/docx/SRkydw1ufoAclmxeIfAct4uGnAb). Thanks to their authors.
+All notes are based on [ai training camp study manual AI4S](https://datawhaler.feishu.cn/docx/SRkydw1ufoAclmxeIfAct4uGnAb) and [ai training camp study manual CV](https://datawhaler.feishu.cn/docx/K6RndJlW5ocYfZxJ02ucGIwmnqd). Thanks to their authors.
