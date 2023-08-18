@@ -1,4 +1,4 @@
-![image](https://github.com/MarcYugo/ai_training_tamp/assets/51077410/310ba6c9-b933-4535-88b8-21c6a316ee18)# ai_training_tamp
+# ai_training_tamp
 This repository is used to store personal study notes during the AI training camp.
 
 ### AI Mid-range Weather Forecast
