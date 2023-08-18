@@ -1,4 +1,4 @@
-# ai_training_tamp
+![image](https://github.com/MarcYugo/ai_training_tamp/assets/51077410/310ba6c9-b933-4535-88b8-21c6a316ee18)# ai_training_tamp
 This repository is used to store personal study notes during the AI training camp.
 
 ### AI Mid-range Weather Forecast
@@ -7,7 +7,8 @@ Link to [weather data](https://tianchi.aliyun.com/competition/entrance/532111/in
 
 |method baseline| note name|
 |-|-|
-|Statistical method|weather_stats_baseline_AI4S.ipynb|
+|Statistical method | weather_stats_baseline_AI4S.ipynb|
+|Machine Learning | weather_ml_baseline_AI4S.ipynb |
 
 ### Brain PET Image Analysis and Disease Prediction
 
