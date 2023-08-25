@@ -16,7 +16,7 @@ Link to PET Image dataset [data](https://challenge.xfyun.cn/topic/info?type=pet-
 
 |method| note name|
 |-|-|
-|Deep learning model| pet_brain.ipynb|
+|Deep learning model| pet_brain/v1/v2.ipynb|
 
 ### Acknowledgment
 
