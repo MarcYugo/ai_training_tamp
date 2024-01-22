@@ -23,4 +23,4 @@ Link to PET Image dataset [data](https://challenge.xfyun.cn/topic/info?type=pet-
 All notes are based on [ai training camp study manual AI4S](https://datawhaler.feishu.cn/docx/SRkydw1ufoAclmxeIfAct4uGnAb) and [ai training camp study manual CV](https://datawhaler.feishu.cn/docx/K6RndJlW5ocYfZxJ02ucGIwmnqd). Thanks to their authors.
 
 ### Lisense
-The folder ai4s_submition_preliminary_round_37_markyu is under MIT Lisense.
+The folder ai4s_submition_preliminary_round_37_markyu is under the [MIT Lisense](https://github.com/MarcYugo/ai_training_tamp/blob/main/LICENSE).
